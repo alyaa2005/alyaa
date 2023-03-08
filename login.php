@@ -10,7 +10,7 @@
     margin: 0;
     padding: 0;
     font-family: Candara;
-    background: linear-gradient(#CDB3D4,#E7B7C8,#FFBE88);
+    background: linear-gradient(#CDB3D4,#E7B7C8,#FFBE88); // warna pa ni buruk ah
     height: 100vh;
     overflow: hidden;
   }
