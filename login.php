@@ -142,6 +142,8 @@ if (isset($_POST['id'])and isset($_POST['katalaluan'])) {
       
     }
   }
+  
+  //ayam bermacam ayam
 ?>
 
 </body>
